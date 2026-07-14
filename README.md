@@ -18,9 +18,11 @@ I've been interested in computers and technology since I was a kid.
 - Former chef
 - I also have media degree
 - I spent six months studying game development in Germany
+- Loves cooking and eating
 - Aspiring powerlifter
 - 80s–90s anime fan
-- Japan enthusiast 🇯🇵 
+- Japan enthusiast 🇯🇵
+- History buff
 
 <!--
 **pehkomatti/pehkomatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
