@@ -5,16 +5,31 @@ IT graduate from Finland
 
 I've worked on a variety of development projects during my studies, and this GitHub is where I showcase my projects and continue learning.
 I've been interested in computers and technology since I was a kid.
-
+##
 
 🔭 Interested in:
-- 🐧 Linux
 - ⚙️ DevOps
 - ☁️ Infrastructure
 - 🧪 Testing & QA
 - 🔒 Security
+##
 
-⚡ Fun fact: ...
+🛠️ Skills
+
+- Linux
+- DevOps
+- CI/CD
+- Software Testing
+- Test Automation (Robot Framework)
+- Cybersecurity Fundamentals
+- Web Development
+- SQL & Relational Databases
+- Mobile Development
+- Infrastructure
+- Game Development
+##
+
+  ⚡ Fun facts: ...
 - Former chef
 - I also have media degree
 - I spent six months studying game development in Germany
@@ -23,6 +38,7 @@ I've been interested in computers and technology since I was a kid.
 - 80s–90s anime fan
 - Japan enthusiast 🇯🇵
 - History buff
+- Movie nerd
 
 <!--
 **pehkomatti/pehkomatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
